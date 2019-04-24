@@ -5,4 +5,3 @@ authors = ["nextzhou <nextzhou@gmail.com>"]
 
 [dependencies]
 clap = "2.29.4"
-
